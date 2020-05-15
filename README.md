@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Earth Time Machine
 
-You can use the [editor on GitHub](https://github.com/mdouskos/ETM/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+This is the website of the Earth Time Machine research project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The main goal of the project is to develop a system for automated 4D reconstruction and mapping of an area of interest through the combined consideration of multi-temporal, multi-modal and multi-scale data from various platforms and sensors. The produced models are a valuable source of information for studying complex social and natural phenomena and they provide the ability to disseminate relevant scientific results to the general public.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdouskos/ETM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The project is co-financed by Greece and the European Union (European Social Fund) through the Operational Program "Human Resource Development, Education and Lifelong Learning", in the context of the Act "SUPPORT OF POST-DOCTORAL RESEARCHERS - 2nd cycle" (MIS 5033021) implemented by the  Greek State Scholarships Foundation ([IKY](https://www.iky.gr/en/)).
