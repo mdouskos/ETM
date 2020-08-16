@@ -8,6 +8,6 @@ This research is co-financed by Greece and the European Union (European Social F
 
 ### Downloads
 
-[ETM Data Management Plan]({{ site.url }}download/ETM_DMP_2008.pdf)
+[ETM Data Management Plan]({{ site.url }}/download/ETM_DMP_2008.pdf)
 
 ![logo](res/logo.jpg)
