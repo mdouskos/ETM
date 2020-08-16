@@ -6,4 +6,8 @@ The main goal of the project is to develop a system for automated 4D reconstruct
 
 This research is co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational Programme «Human Resources Development, Education and Lifelong Learning» in the context of the project “Reinforcement of Postdoctoral Researchers - 2nd Cycle” (MIS-5033021), implemented by the State Scholarships Foundation ([IKY](https://www.iky.gr/en/)).
 
+### Downloads
+
+[ETM Data Management Plan]({{ site.url }}/download/ETM_DMP_2008.pdf)
+
 ![logo](res/logo.jpg)
